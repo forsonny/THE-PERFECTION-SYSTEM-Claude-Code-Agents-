@@ -1,4 +1,7 @@
-<!-- Generated from skills/the-perfection-system/SKILL.md. Edit that file, then run python3 scripts/validate.py --sync. -->
+---
+name: the-perfection-system
+description: "Refine an artifact through bounded revision, separate review passes, and evidence-based acceptance. Use for substantial writing, code, research, plans, prompts, or design specifications that need rigorous improvement without objective drift. Works with one assistant, multiple reviewers, or a human operator; no particular agent, harness, tools, or persistent memory are required."
+---
 
 # The Perfection System
 
@@ -149,6 +152,6 @@ For interrupted or cross-harness work, preserve the objective, contract version,
 
 The instructions above are sufficient on their own. Load these only when useful; their absence does not prevent a basic run.
 
-- [Review protocol](skills/the-perfection-system/references/review-protocol.md): finding records, reconciliation, and evidence rules.
-- [Worked examples](skills/the-perfection-system/references/examples.md): single-assistant, multi-reviewer, and blocked runs.
-- [Run template](skills/the-perfection-system/assets/run-template.md): a portable contract, review record, and handoff.
+- [Review protocol](references/review-protocol.md): finding records, reconciliation, and evidence rules.
+- [Worked examples](references/examples.md): single-assistant, multi-reviewer, and blocked runs.
+- [Run template](assets/run-template.md): a portable contract, review record, and handoff.
